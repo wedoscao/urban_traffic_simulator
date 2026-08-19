@@ -28,5 +28,4 @@ class Intersection {
 
   public:
     const std::pair<float, float>& getCoord();
-    int countVehicle();
 };

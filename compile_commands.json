@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/wedoscao/dev/urban_traffic_simulator/build",
+  "command": "/usr/sbin/c++   -std=c++17 -Wall -Wextra -o CMakeFiles/Main.dir/src/main.cpp.o -c /home/wedoscao/dev/urban_traffic_simulator/src/main.cpp",
+  "file": "/home/wedoscao/dev/urban_traffic_simulator/src/main.cpp",
+  "output": "CMakeFiles/Main.dir/src/main.cpp.o"
+}
+]

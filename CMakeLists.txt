@@ -12,4 +12,5 @@ target_include_directories(${PROJECT_NAME} PRIVATE include)
 target_compile_options(${PROJECT_NAME} PRIVATE -Wall -Wextra)
 
 add_library(Intersection src/intersection.cpp)
+target_include_directories(Intersection PRIVATE include)
 target_link_libraries(${PROJECT_NAME} PRIVATE Intersection)

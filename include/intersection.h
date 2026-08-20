@@ -28,4 +28,5 @@ class Intersection {
 
   public:
     const std::pair<float, float>& getCoord();
+    std::optional<TrafficLight> getTrafficLight();
 };

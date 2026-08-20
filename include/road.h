@@ -22,5 +22,6 @@ class Road {
     bool hasBlocked() const;
 
     void block();
+    void unblock();
     void setSpeedLimit(int speedLimit);
 };

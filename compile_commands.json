@@ -1,14 +1,1 @@
-[
-    {
-        "directory": "/home/wedoscao/dev/urban_traffic_simulator/build",
-        "command": "/usr/sbin/c++  -I/home/wedoscao/dev/urban_traffic_simulator/include -std=c++17 -o CMakeFiles/Intersection.dir/src/intersection.cpp.o -c /home/wedoscao/dev/urban_traffic_simulator/src/intersection.cpp",
-        "file": "/home/wedoscao/dev/urban_traffic_simulator/src/intersection.cpp",
-        "output": "CMakeFiles/Intersection.dir/src/intersection.cpp.o"
-    },
-    {
-        "directory": "/home/wedoscao/dev/urban_traffic_simulator/build",
-        "command": "/usr/sbin/c++  -I/home/wedoscao/dev/urban_traffic_simulator/include -std=c++17 -Wall -Wextra -o CMakeFiles/UrbanTrafficSimulator.dir/src/main.cpp.o -c /home/wedoscao/dev/urban_traffic_simulator/src/main.cpp",
-        "file": "/home/wedoscao/dev/urban_traffic_simulator/src/main.cpp",
-        "output": "CMakeFiles/UrbanTrafficSimulator.dir/src/main.cpp.o"
-    }
-]
+build/compile_commands.json
